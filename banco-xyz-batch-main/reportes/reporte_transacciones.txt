@@ -1,0 +1,4 @@
+REPORTE DIARIO DE TRANSACCIONES
+==============================
+Transacciones procesadas: 467
+Monto total procesado: 611800
